@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Angela
+🏡 I’m venezuelan currently living in Buenos Aires, Argentina
+<br>📭 angelakgo20@gmail.com</br>
+💻 <a href="portfolio-angela-goncalves.vercel.app/">website</a>
 
-<!--
-**angela-goncalves/angela-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I've been studying web development since the end of 2020
+## Technologies I've been working with:
+- React
+- Nextjs
+- Tailwind
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Working on my Portfolio, and other things to practice and learn more about web development.
+
+⚡ Love long walks and ☕
