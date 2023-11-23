@@ -12,9 +12,9 @@
 - SWR
 - React Query
 - SDK Vercel
-- openai API
+- Openai API
 - ML models
-- supabase
+- Supabase
 
 ## Technical skills
 ### I'm an adaptive and collaborative Front-end Developer.
