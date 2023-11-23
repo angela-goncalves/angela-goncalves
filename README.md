@@ -3,7 +3,7 @@
 <br>📭 angelakgo20@gmail.com</br>
 💻 <a href="https://portfolio-angela-goncalves.vercel.app/">website</a>
 
-# Technologies
+## Technologies
 - React
 - Nextjs
 - TypeScript
@@ -21,9 +21,10 @@
 ### My technical acumen in 
 - responsive design and client-focused development,
 - strong commitment to clear communication,
-- *problem-solving*,
-- proactive learning. 
-### Currently, I'm leveraging my strong analytical skills and creative thinking to explore the frontiers of *AI*.
+- problem-solving,
+- proactive learning.
+
+Currently, I'm leveraging my strong analytical skills and creative thinking to explore the frontiers of *AI*.</br>
 Eager to contribute to and grow with a forward-thinking team.
 
 ## What I like
@@ -31,5 +32,5 @@ Eager to contribute to and grow with a forward-thinking team.
 :runner: Long walks</br>
 💪 Exercise</br>
 📖 Read</br>
-:tv: watch series</br>
+:tv: Watch series</br>
 
