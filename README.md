@@ -1,5 +1,5 @@
 ## Hi there 👋 
-# I'm Angela a Front-end Developer
+# I'm Angela, a Software Engineer
 <br>📭 angelakgo20@gmail.com</br>
 💻 <a href="https://portfolio-angela-goncalves.vercel.app/">website</a>
 
