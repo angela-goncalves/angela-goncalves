@@ -1,7 +1,9 @@
 ## Hi there 👋 
-# I'm Angela, a Software Engineer
-<br>📭 angelakgo20@gmail.com</br>
-💻 <a href="https://portfolio-angela-goncalves.vercel.app/">website</a>
+# I'm Angela, a self-taught Software Engineer 
+📭 angelakgo20@gmail.com</br>
+💻 [website](https://portfolio-angela-goncalves.vercel.app/) </br>
+### Really enjoy to bring ideas to life :computer: :computer:
+</br>
 
 ## Technologies
 - React
@@ -11,21 +13,20 @@
 - MUI
 - SWR
 - React Query
-- SDK Vercel
+- Vercel AI SDK 
 - Openai API
 - ML models
 - Supabase
 
-## Technical skills
-### I'm an adaptive and collaborative Front-end Developer.
-### My technical acumen in 
-- responsive design and client-focused development,
+## Soft skills
+- Adaptability,
+- teamwork,
+- time management,
 - strong commitment to clear communication,
+- work ethics,
 - problem-solving,
+- attention to detail,
 - proactive learning.
-
-Currently, I'm leveraging my strong analytical skills and creative thinking to explore the frontiers of *AI*.</br>
-Eager to contribute to and grow with a forward-thinking team.
 
 ## What I like
 :coffee: Love coffe </br>
