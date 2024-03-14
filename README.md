@@ -2,7 +2,7 @@
 # I'm Angela, a self-taught Software Engineer 
 📭 angelakgo20@gmail.com</br>
 💻 [website](https://portfolio-angela-goncalves.vercel.app/) </br>
-### Really enjoy bringing ideas to life :computer: :computer:
+### I enjoy turning ideas into code :computer: :computer:
 </br>
 
 ## Technologies
